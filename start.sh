@@ -1,4 +1,3 @@
 #!/usr/bin/env bash
-java -Xmx1024M -Xms1024M -jar fabric-server-launch.jar --nogui &
-chmod +x ./playit-linux_642-beta &
+java -Xmx400M -Xms400M -jar fabric-server-launch.jar --nogui &
 ./playit-linux_642-beta

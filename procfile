@@ -1,1 +1,1 @@
-worker: sh start.sh & chmod +x ./playit-linux_642-beta >> h.txt
+worker: chmod +x ./playit-linux_642-beta &sh start.sh >> h.txt
