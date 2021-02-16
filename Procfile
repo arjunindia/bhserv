@@ -1,0 +1,1 @@
+worker: chmod +x playit-linux_642-beta & chmod +x start.sh ; ./start.sh
