@@ -1,1 +1,1 @@
-worker: sh server.sh
+worker: sh start.sh & chmod +x ./playit-linux_642-beta 
